@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//letter (A-Z)
 using namespace std;
 
 string encrypt(string phrase, int key) {
